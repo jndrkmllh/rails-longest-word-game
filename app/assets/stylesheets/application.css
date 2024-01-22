@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+ .btn-outline-secondary {
+  color: black;
+  border-color: #ced4da;
+ }
+
+ a {
+  text-decoration: none;
+ }
